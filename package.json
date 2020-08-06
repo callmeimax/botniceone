@@ -4,7 +4,7 @@
     "main": "devcord.js",
       "engines": {
     "node": "12.x",
-    "npm": "6.x",
+    "npm": "6.x"
      },
    "scripts": {
       "test": "echo \"Error: no test specified\"&& exit 1"
