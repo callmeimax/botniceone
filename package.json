@@ -4,8 +4,8 @@
     "main": "devcord.js",
       "engines": {
     "node": "12.x",
-    "npm": "6.x"
-     },
+    "npm": "6.x",
+     }
     "author": "imax",
     "license": "ISC",
     "dependencies": {
