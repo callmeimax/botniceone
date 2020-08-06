@@ -1,1 +1,1 @@
-Worker: node devcord.js
+worker: node devcord.js
