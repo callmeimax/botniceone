@@ -4,8 +4,6 @@
     "main": "devcord.js",
       "engines": {
     "node": "12.x" 
-     },
-          "engines": {
     "npm": "6.x"
      },
     "scripts": {
