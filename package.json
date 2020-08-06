@@ -6,6 +6,9 @@
     "node": "12.x",
     "npm": "6.x",
      },
+    "scripts": {
+  "start": "node devcord.js"
+},
     "author": "imax",
     "license": "ISC",
     "dependencies": {
